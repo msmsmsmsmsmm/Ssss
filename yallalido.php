@@ -1,6 +1,6 @@
 <?php
 // توكن البوت الخاص بك (تم تحديثه)
-$botToken = "BBOTTTTTTTTTTT";
+$botToken = "8642478796:AAEaDxElqAtOEs2DUzz_8yNnuflpLRSADwQ";
 
 // دالة لإرسال الرسائل إلى التليجرام
 function sendTelegramMessage($chatId, $message, $botToken) {
